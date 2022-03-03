@@ -1,0 +1,20 @@
+Welcome to Multiple Game Player(MPG)
+
+Please put the whole folder into your local c: drive. If you don't have a c: drive
+or don't want to put it in c:. Skip to #10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#10 Starting Without putting folder in c: drive.  Open main.py and click Open Game. Open MultipleGamePlayer folder and click on games. Open the game you want to play. 
